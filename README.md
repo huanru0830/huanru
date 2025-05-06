@@ -26,7 +26,7 @@ Hello! I'm Huanru guo, a passionate computer science student with a strong focus
 ## Get in Touch
 
 - **Email**: [guo23001@byui.edu](mailto:guo23001@byui.edu)
-- **LinkedIn**: [linkedin.com/in/huanru-guo-67497b34b](https://www.linkedin.com/in/huanru-guo-67497b34b)
+- **LinkedIn**: [linkedin.com/in/huanru-guo](https://www.linkedin.com/in/huanru-guo)
 - **GitHub**: [https://github.com/huanru0830](https://github.com/huanru0830)
 
 I’m always open to opportunities and collaboration! Feel free to reach out if you want to work together on exciting projects.
